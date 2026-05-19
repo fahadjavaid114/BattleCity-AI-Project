@@ -1,7 +1,3 @@
-# BattleCity-AI-Project
-Python clone of Tank 1990 with AI agents — BFS, Greedy, A*, and a Minimax boss with Alpha-Beta pruning. Built as an AI-Project.
-
-
 # Battle City — AI Adaptive Combat
 
 > A fully playable Python clone of the classic Tank 1990 arcade game, built as a semester project for **AL2002 Artificial Intelligence Lab (Spring 2026)**. Every enemy tank runs a different AI algorithm — from simple BFS pathfinding to a Minimax boss with Alpha-Beta pruning.
