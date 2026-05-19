@@ -1,2 +1,4 @@
 # BattleCity-AI-Project
-Python clone of Tank 1990 with AI agents — BFS, Greedy, A*, and a Minimax boss with Alpha-Beta pruning. Built for AL2002 AI Lab, Spring 2026.
+Python clone of Tank 1990 with AI agents — BFS, Greedy, A*, and a Minimax boss with Alpha-Beta pruning. Built as AI-Project.
+
+
