@@ -151,9 +151,3 @@ These are measured and logged live to `boss_stats.txt` during every Boss fight. 
 - **Lives:** Player starts with 3 lives
 - **Win:** Destroy all enemies in the pool
 - **Lose:** Player runs out of lives, or any bullet hits the Eagle
-
----
-
-## License
-
-This project was built for academic purposes as part of AL2002 Artificial Intelligence Lab, Spring 2026.
